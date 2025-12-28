@@ -1,0 +1,6 @@
+
+{
+  "name": "Love & Kitchen",
+  "description": "A shared culinary diary for couples to record their cooking adventures, order meals together, and track their food journey.",
+  "requestFramePermissions": ["camera"]
+}
